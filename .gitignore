@@ -1,0 +1,10 @@
+# Local Phoenix / app credentials — never commit
+.env
+.env.phoenix
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/

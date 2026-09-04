@@ -1,0 +1,12 @@
+Strands Agents + Phoenix Observability Demo
+
+This project is adapted from the "Strands Agents with OpenInference and Arize
+Observability" sample in https://github.com/strands-agents/samples
+(Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.),
+licensed under the Apache License, Version 2.0.
+
+Changes in this repository:
+- Tracing switched from Arize AX to open-source Arize Phoenix (phoenix.otel).
+- Restaurant assistant prompts and test cases translated to Spanish.
+- Added eval/ : a Spanish evaluation dataset and four LLM-as-judge evaluators,
+  with a model-comparison runner (Claude Sonnet vs DeepSeek vs OpenAI gpt-oss).
