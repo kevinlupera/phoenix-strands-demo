@@ -1,4 +1,4 @@
-strands-agents==1.8.0
+strands-agents==1.48.0
 strands-agents-tools==0.2.0
 urllib3>=2.6.0
 arize-phoenix-otel==0.17.1
